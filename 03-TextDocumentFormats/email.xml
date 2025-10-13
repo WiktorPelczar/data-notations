@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <Nadawca>
+        <imię> Wiktor Pelczar </imię>
+        <adres> dupapawiana@gmail.com </adres>
+    </Nadawca>
+    <Odbiorca>
+        <imię> Człowiek Mucha </imię>
+        <adres> muchaman@gmail.com </adres>
+    </Odbiorca>
+    <Wiadomość>
+        <tekst> Gdzie są moje pieniądze? </tekst>
+        <tytuł> Siano? </tytuł>
+    </Wiadomość>
+</email>
+        
+
+
+

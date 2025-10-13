@@ -54,4 +54,28 @@
             "Accessories"
         ]
     }
+    ,
+    {
+        "name": "Bershka",
+        "founded": 1998,
+        "headquarters": "Arteixo, Spain",
+        "employees" : 8000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
+    }
+    ,
+    {
+        "name": "Supreme",
+        "founded": 1994,
+        "headquarters": "New York, USA",
+        "employees": 5000,
+        "products": [
+            "Designer Clothing",
+            "Casual Wear",
+            "Accessories"
+        ]
+    }
 ]

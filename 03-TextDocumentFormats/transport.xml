@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaysOfTransporation>
+    <Bike brand="Kross Evado" model="5.0">
+        <info>
+            <price> 2000zł </price>
+            <usefulness> very helpfull </usefulness>
+            <color> blue </color>
+            <usage> sometimes </usage>
+        </info> 
+    </Bike>
+
+    <Bus number="189" design="modern">
+        <info>    
+            <TicketCost> 2zł </TicketCost>
+            <Punctuality> Every 15 min </Punctuality>
+            <Crowd> mediocare </Crowd>
+            <usage> Quite often </usage>
+        </info>
+    </Bus> 
+
+    <Legs color="white" hairness="medium">
+        <info>   
+            <cost> free </cost>
+            <strenght> could be better </strenght>
+            <lenght> pretty long </lenght>
+            <usage> every day </usage>
+        </info>
+    </Legs>
+</WaysOfTransporation>            
+  
+
+
+
+

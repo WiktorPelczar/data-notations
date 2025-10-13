@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
-</smartphones>
+    <smartphone2 brand="Poco" model="F3" releaseYear="2022">
+        <specs>
+            <screenSize unit="inch">6.6</screenSize>
+            <batteryCapacity unit="mAh">4000</batteryCapacity>
+            <storage unit="GB">512</storage>
+            <camera unit="MP">60</camera>
+        </specs>
+    </smartphone2>
+</smartphones>        
+
+     
